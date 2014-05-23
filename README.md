@@ -5,4 +5,4 @@ built using 'Ruby on Rails'
 (http://effennproductions.se/apps/effenn-cms).
 
 
-App developed by [Fredrik Nilsson] (http://effennproductions.se/development/bio).
+App developed by [Fredrik Nilsson] (http://effennproductions.se/development/about/fredrik_nilsson).
